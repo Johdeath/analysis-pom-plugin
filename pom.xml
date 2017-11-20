@@ -33,7 +33,7 @@
     <java.level>8</java.level>
 
     <!-- Library Dependencies Versions -->
-    <analysis-config.version>2.0-SNAPSHOT</analysis-config.version>
+    <analysis-config.version>2.0-20171120.213151-1</analysis-config.version>
 
     <!-- Test Library Dependencies Versions -->
     <junit.version>5.0.0</junit.version>
